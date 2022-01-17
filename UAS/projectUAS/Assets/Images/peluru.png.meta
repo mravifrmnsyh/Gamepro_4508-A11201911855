@@ -1,0 +1,3720 @@
+fileFormatVersion: 2
+guid: 6897610b287fce547951d13041d2d832
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6836158870011424623
+    second: peluru_0
+  - first:
+      213: -3324476244937797151
+    second: peluru_1
+  - first:
+      213: 7206511587702069677
+    second: peluru_2
+  - first:
+      213: 6228218778142195044
+    second: peluru_3
+  - first:
+      213: -2280617026543879886
+    second: peluru_4
+  - first:
+      213: 6240752468904939914
+    second: peluru_5
+  - first:
+      213: -7558392382629627781
+    second: peluru_6
+  - first:
+      213: -5950749022691840406
+    second: peluru_7
+  - first:
+      213: 4339210269631592595
+    second: peluru_8
+  - first:
+      213: -5219256830499387252
+    second: peluru_9
+  - first:
+      213: 6246857356716910514
+    second: peluru_10
+  - first:
+      213: -6342177038479738890
+    second: peluru_11
+  - first:
+      213: 4070394809943572763
+    second: peluru_12
+  - first:
+      213: -9117102919112040635
+    second: peluru_13
+  - first:
+      213: -8048475595902607919
+    second: peluru_14
+  - first:
+      213: 1487276554669565895
+    second: peluru_15
+  - first:
+      213: -6538286782843799043
+    second: peluru_16
+  - first:
+      213: -663693789147645574
+    second: peluru_17
+  - first:
+      213: 210050177819574137
+    second: peluru_18
+  - first:
+      213: 7565909473294633540
+    second: peluru_19
+  - first:
+      213: -921253765981332242
+    second: peluru_20
+  - first:
+      213: 7197900124208237507
+    second: peluru_21
+  - first:
+      213: 3745964634368138108
+    second: peluru_22
+  - first:
+      213: -4936719200278490533
+    second: peluru_23
+  - first:
+      213: 397273641881329144
+    second: peluru_24
+  - first:
+      213: -786322178544896245
+    second: peluru_25
+  - first:
+      213: 2978862169976842803
+    second: peluru_26
+  - first:
+      213: 8545816223034880171
+    second: peluru_27
+  - first:
+      213: 2110838832703561556
+    second: peluru_28
+  - first:
+      213: -2294989794965750019
+    second: peluru_29
+  - first:
+      213: -3734702642243971134
+    second: peluru_30
+  - first:
+      213: -4197470238016629789
+    second: peluru_31
+  - first:
+      213: -6334997214996767512
+    second: peluru_32
+  - first:
+      213: -6382742828769891837
+    second: peluru_33
+  - first:
+      213: -6320186214373620337
+    second: peluru_34
+  - first:
+      213: -4316219612329543393
+    second: peluru_35
+  - first:
+      213: 4813454350172381561
+    second: peluru_36
+  - first:
+      213: -1376887729343982035
+    second: peluru_37
+  - first:
+      213: -6262874634685052088
+    second: peluru_38
+  - first:
+      213: 6039096170212905390
+    second: peluru_39
+  - first:
+      213: -6700644761561229022
+    second: peluru_40
+  - first:
+      213: -1770358648927286661
+    second: peluru_41
+  - first:
+      213: 305637849578135347
+    second: peluru_42
+  - first:
+      213: -3757833324248647414
+    second: peluru_43
+  - first:
+      213: -3554661974906447551
+    second: peluru_44
+  - first:
+      213: -8682648312390937481
+    second: peluru_45
+  - first:
+      213: -3837385762009191859
+    second: peluru_46
+  - first:
+      213: -5457942072614026698
+    second: peluru_47
+  - first:
+      213: 5734982103767117543
+    second: peluru_48
+  - first:
+      213: -3858399134538616637
+    second: peluru_49
+  - first:
+      213: 7733429010290148951
+    second: peluru_50
+  - first:
+      213: -7253307718164662974
+    second: peluru_51
+  - first:
+      213: -8443397126466307564
+    second: peluru_52
+  - first:
+      213: 1868750284045629437
+    second: peluru_53
+  - first:
+      213: 5066953704870560368
+    second: peluru_54
+  - first:
+      213: -8780993753243277171
+    second: peluru_55
+  - first:
+      213: 8360522933019307608
+    second: peluru_56
+  - first:
+      213: -5753751284858139647
+    second: peluru_57
+  - first:
+      213: -389339305279358930
+    second: peluru_58
+  - first:
+      213: -2765429334692444551
+    second: peluru_59
+  - first:
+      213: 517536923409918657
+    second: peluru_60
+  - first:
+      213: -4948753175233154630
+    second: peluru_61
+  - first:
+      213: -2978169080012920425
+    second: peluru_62
+  - first:
+      213: -5474994251830031201
+    second: peluru_63
+  - first:
+      213: 2321711529097908231
+    second: peluru_64
+  - first:
+      213: 5963654769920867599
+    second: peluru_65
+  - first:
+      213: -4197904318319231715
+    second: peluru_66
+  - first:
+      213: 5946709227055177388
+    second: peluru_67
+  - first:
+      213: 6523048061489717294
+    second: peluru_68
+  - first:
+      213: 7848752826363464426
+    second: peluru_69
+  - first:
+      213: 8245415294283174260
+    second: peluru_70
+  - first:
+      213: 3643415051617695008
+    second: peluru_71
+  - first:
+      213: -8800660762557977974
+    second: peluru_72
+  - first:
+      213: 1655571303480894434
+    second: peluru_73
+  - first:
+      213: 145341287341191461
+    second: peluru_74
+  - first:
+      213: 2524030007456531151
+    second: peluru_75
+  - first:
+      213: 315069882354191961
+    second: peluru_76
+  - first:
+      213: 2076999684163663932
+    second: peluru_77
+  - first:
+      213: 4299322093040856926
+    second: peluru_78
+  - first:
+      213: -1544503829532144608
+    second: peluru_79
+  - first:
+      213: -3759125400272730197
+    second: peluru_80
+  - first:
+      213: -6930193953327757473
+    second: peluru_81
+  - first:
+      213: 4587523727424501028
+    second: peluru_82
+  - first:
+      213: 400939342566974956
+    second: peluru_83
+  - first:
+      213: 674819487452544277
+    second: peluru_84
+  - first:
+      213: 4696621020592694281
+    second: peluru_85
+  - first:
+      213: 7764735985391890672
+    second: peluru_86
+  - first:
+      213: 3418049489697556232
+    second: peluru_87
+  - first:
+      213: -3757787053016267808
+    second: peluru_88
+  - first:
+      213: 7913232214049805732
+    second: peluru_89
+  - first:
+      213: -7393091981835001808
+    second: peluru_90
+  - first:
+      213: 2938634525856988922
+    second: peluru_91
+  - first:
+      213: 8359920997074205543
+    second: peluru_92
+  - first:
+      213: -8208349528399147604
+    second: peluru_93
+  - first:
+      213: -1389376301071050953
+    second: peluru_94
+  - first:
+      213: -3216266645920765938
+    second: peluru_95
+  - first:
+      213: 5833042925745554478
+    second: peluru_96
+  - first:
+      213: -9219191053838416448
+    second: peluru_97
+  - first:
+      213: 8749154192150869275
+    second: peluru_98
+  - first:
+      213: -2667333121940552425
+    second: peluru_99
+  - first:
+      213: -7890567803501900705
+    second: peluru_100
+  - first:
+      213: 6040001654905894591
+    second: peluru_101
+  - first:
+      213: 7118229896595376473
+    second: peluru_102
+  - first:
+      213: 6934852557194842657
+    second: peluru_103
+  - first:
+      213: -9204935408642448822
+    second: peluru_104
+  - first:
+      213: -7591859583540355403
+    second: peluru_105
+  - first:
+      213: 7551693192602668228
+    second: peluru_106
+  - first:
+      213: 2067593422888556379
+    second: peluru_107
+  - first:
+      213: 6399657340102341587
+    second: peluru_108
+  - first:
+      213: -6033739710408185840
+    second: peluru_109
+  - first:
+      213: -497985303007440585
+    second: peluru_110
+  - first:
+      213: 4452835231807159062
+    second: peluru_111
+  - first:
+      213: -7244020893736774194
+    second: peluru_112
+  - first:
+      213: 6489937470923111298
+    second: peluru_113
+  - first:
+      213: 7710444981969364357
+    second: peluru_114
+  - first:
+      213: 1904922607924333904
+    second: peluru_115
+  - first:
+      213: -9059144850155601807
+    second: peluru_116
+  - first:
+      213: 2767773933079582123
+    second: peluru_117
+  - first:
+      213: -54589175234832163
+    second: peluru_118
+  - first:
+      213: -668657796090210715
+    second: peluru_119
+  - first:
+      213: -5284961864416254741
+    second: peluru_120
+  - first:
+      213: -9107645345757193685
+    second: peluru_121
+  - first:
+      213: -3524870810524017074
+    second: peluru_122
+  - first:
+      213: -4278175767780881943
+    second: peluru_123
+  - first:
+      213: -3941748144220988540
+    second: peluru_124
+  - first:
+      213: 7743641423051412311
+    second: peluru_125
+  - first:
+      213: 549632352611304217
+    second: peluru_126
+  - first:
+      213: -2045907769979284027
+    second: peluru_127
+  - first:
+      213: 680073839277327603
+    second: peluru_128
+  - first:
+      213: -2298078794253155272
+    second: peluru_129
+  - first:
+      213: -1046471836743520746
+    second: peluru_130
+  - first:
+      213: -352075241087476956
+    second: peluru_131
+  - first:
+      213: -78490870864100701
+    second: peluru_132
+  - first:
+      213: -8103284337160345409
+    second: peluru_133
+  - first:
+      213: 6103665473099608319
+    second: peluru_134
+  - first:
+      213: 6689646221134229281
+    second: peluru_135
+  - first:
+      213: 1245316709091660248
+    second: peluru_136
+  - first:
+      213: 2679726415073300224
+    second: peluru_137
+  - first:
+      213: 5369030140181223814
+    second: peluru_138
+  - first:
+      213: 4598152035878409424
+    second: peluru_139
+  - first:
+      213: -939723313109506341
+    second: peluru_140
+  - first:
+      213: 4333102783878114752
+    second: peluru_141
+  - first:
+      213: 5809070022054438332
+    second: peluru_142
+  - first:
+      213: -8456078892517804343
+    second: peluru_143
+  - first:
+      213: 7887809374452784152
+    second: peluru_144
+  - first:
+      213: -7719646352524864042
+    second: peluru_145
+  - first:
+      213: 6057968972795395322
+    second: peluru_146
+  - first:
+      213: -1444127373551204184
+    second: peluru_147
+  - first:
+      213: 4287314650630223214
+    second: peluru_148
+  - first:
+      213: 6546384949611889440
+    second: peluru_149
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: peluru_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 127
+        width: 392
+        height: 331
+      alignment: 9
+      pivot: {x: 0.50832224, y: 0.5270027}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19055dc2ab51121a0800000000000000
+      internalID: -6836158870011424623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_1
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 432
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1124418761dd1d0800000000000000
+      internalID: -3324476244937797151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_2
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 435
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9d7b67b1ca20460800000000000000
+      internalID: 7206511587702069677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_3
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 427
+        width: 49
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d359eeaf31f6650800000000000000
+      internalID: 6228218778142195044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_4
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 436
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239f428c5ee9950e0800000000000000
+      internalID: -2280617026543879886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_5
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 432
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8198383e4b9b9650800000000000000
+      internalID: 6240752468904939914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_6
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 435
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78b7509c223b1790800000000000000
+      internalID: -7558392382629627781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_7
+      rect:
+        serializedVersion: 2
+        x: 2716
+        y: 430
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e23f2da41ba6da0800000000000000
+      internalID: -5950749022691840406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_8
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 414
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3983e1700c8f73c30800000000000000
+      internalID: 4339210269631592595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_9
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 424
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c888d82c0997197b0800000000000000
+      internalID: -5219256830499387252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_10
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 423
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7a5ad2bab41b650800000000000000
+      internalID: 6246857356716910514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_11
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 408
+        width: 66
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7b6c6f59f0cf7a0800000000000000
+      internalID: -6342177038479738890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_12
+      rect:
+        serializedVersion: 2
+        x: 2794
+        y: 427
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11c7468382fc7830800000000000000
+      internalID: 4070394809943572763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_13
+      rect:
+        serializedVersion: 2
+        x: 2873
+        y: 412
+        width: 69
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f56a5133b897180800000000000000
+      internalID: -9117102919112040635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_14
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 299
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd13d296121e4090800000000000000
+      internalID: -8048475595902607919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_15
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 421
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7a8d3852ed3a410800000000000000
+      internalID: 1487276554669565895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_16
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 418
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9b6f4ffc65345a0800000000000000
+      internalID: -6538286782843799043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_17
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 379
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79b832e3061ac6f0800000000000000
+      internalID: -663693789147645574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_18
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 279
+        width: 90
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f71f9168f3ae200800000000000000
+      internalID: 210050177819574137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_19
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 394
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a4d7e74928ff860800000000000000
+      internalID: 7565909473294633540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_20
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 358
+        width: 69
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec11b2b49c0733f0800000000000000
+      internalID: -921253765981332242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_21
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 378
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb0c20e60414e360800000000000000
+      internalID: 7197900124208237507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_22
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 335
+        width: 38
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b50bcecf65cf330800000000000000
+      internalID: 3745964634368138108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_23
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 378
+        width: 61
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52dc8f0b004d7bb0800000000000000
+      internalID: -4936719200278490533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_24
+      rect:
+        serializedVersion: 2
+        x: 2371
+        y: 388
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd56feb546638500800000000000000
+      internalID: 397273641881329144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_25
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 391
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07f1dc052c6615f0800000000000000
+      internalID: -786322178544896245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_26
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 334
+        width: 93
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33aa1546c5b075920800000000000000
+      internalID: 2978862169976842803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_27
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 292
+        width: 22
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0b3c1c396d89670800000000000000
+      internalID: 8545816223034880171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_28
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 155
+        width: 256
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f55611cb43b4d10800000000000000
+      internalID: 2110838832703561556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_29
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 379
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe7bebd0fe8620e0800000000000000
+      internalID: -2294989794965750019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_30
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 151
+        width: 243
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7d553fbbbab2cc0800000000000000
+      internalID: -3734702642243971134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_31
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 134
+        width: 349
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e39eb3ce079fb5c0800000000000000
+      internalID: -4197470238016629789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_32
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 158
+        width: 247
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec5703e8919518a0800000000000000
+      internalID: -6334997214996767512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_33
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 178
+        width: 235
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30aaf76e631fb67a0800000000000000
+      internalID: -6382742828769891837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_34
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 176
+        width: 285
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8580f1bf103a48a0800000000000000
+      internalID: -6320186214373620337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_35
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 355
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19f5828125b914c0800000000000000
+      internalID: -4316219612329543393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_36
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 354
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971659c8a33dcc240800000000000000
+      internalID: 4813454350172381561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_37
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 337
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d269bdcb7ef44ece0800000000000000
+      internalID: -1376887729343982035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_38
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 340
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b0bcea3bcc519a0800000000000000
+      internalID: -6262874634685052088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_39
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 339
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea156f568fd2fc350800000000000000
+      internalID: 6039096170212905390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_40
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 342
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2299f0547178203a0800000000000000
+      internalID: -6700644761561229022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_41
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 334
+        width: 53
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a06a5403c6e67e0800000000000000
+      internalID: -1770358648927286661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_42
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 319
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fd40e3108dd3400800000000000000
+      internalID: 305637849578135347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_43
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 288
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09b80f508e79dbc0800000000000000
+      internalID: -3757833324248647414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_44
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 307
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149dc1964cd4baec0800000000000000
+      internalID: -3554661974906447551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_45
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 286
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7741b4ecc59018780800000000000000
+      internalID: -8682648312390937481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_46
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 294
+        width: 51
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4aec451bfddebac0800000000000000
+      internalID: -3837385762009191859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_47
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 306
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6328e253a9e7144b0800000000000000
+      internalID: -5457942072614026698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_48
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 295
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eee24096dfb69f40800000000000000
+      internalID: 5734982103767117543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_49
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 303
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0b6280e66347ac0800000000000000
+      internalID: -3858399134538616637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_50
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 295
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7568b0e16b8a25b60800000000000000
+      internalID: 7733429010290148951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_51
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 303
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245323c5f03175b90800000000000000
+      internalID: -7253307718164662974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_52
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 303
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41afb6b6c0703da80800000000000000
+      internalID: -8443397126466307564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_53
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 306
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df733767b722fe910800000000000000
+      internalID: 1868750284045629437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_54
+      rect:
+        serializedVersion: 2
+        x: 2678
+        y: 291
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072c8287c8f615640800000000000000
+      internalID: 5066953704870560368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_55
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 279
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88a20384b4a32680800000000000000
+      internalID: -8780993753243277171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_56
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 261
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e6f17cf4b860470800000000000000
+      internalID: 8360522933019307608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_57
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 262
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c451ce0b19620b0800000000000000
+      internalID: -5753751284858139647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_58
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 291
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28f9b3f6f9c89af0800000000000000
+      internalID: -389339305279358930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_59
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 298
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97646360ca83f99d0800000000000000
+      internalID: -2765429334692444551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_60
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 298
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca2ffdf619ae2700800000000000000
+      internalID: 517536923409918657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_61
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 274
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1342de43f725bb0800000000000000
+      internalID: -4948753175233154630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_62
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 285
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79927c0300b6ba6d0800000000000000
+      internalID: -2978169080012920425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_63
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 279
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c8d585cb9e404b0800000000000000
+      internalID: -5474994251830031201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_64
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 288
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7005fc2b550683020800000000000000
+      internalID: 2321711529097908231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_65
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 283
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d723c9a6823c250800000000000000
+      internalID: 5963654769920867599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_66
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 264
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1df081934c0eb5c0800000000000000
+      internalID: -4197904318319231715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_67
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 285
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae5925f884f68250800000000000000
+      internalID: 5946709227055177388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_68
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 268
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2025edb6a5868a50800000000000000
+      internalID: 6523048061489717294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_69
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 276
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeacc317c1f5cec60800000000000000
+      internalID: 7848752826363464426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_70
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 273
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471525926899d6270800000000000000
+      internalID: 8245415294283174260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_71
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 279
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025fbf09fa2009230800000000000000
+      internalID: 3643415051617695008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_72
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 270
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a63031aa5cdd580800000000000000
+      internalID: -8800660762557977974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_73
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 273
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e32f443455c9f610800000000000000
+      internalID: 1655571303480894434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_74
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 268
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5217b2b712b540200800000000000000
+      internalID: 145341287341191461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_75
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 276
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc28fdc3be7270320800000000000000
+      internalID: 2524030007456531151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_76
+      rect:
+        serializedVersion: 2
+        x: 2657
+        y: 268
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e4521836a5f5400800000000000000
+      internalID: 315069882354191961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_77
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 273
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c387c25553cf2dc10800000000000000
+      internalID: 2076999684163663932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_78
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 242
+        width: 75
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f60b23aa24aab30800000000000000
+      internalID: 4299322093040856926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_79
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 250
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c818e33f1d09ae0800000000000000
+      internalID: -1544503829532144608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_80
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 258
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7889a7d57e4dbc0800000000000000
+      internalID: -3759125400272730197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_81
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 258
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57c653315103df90800000000000000
+      internalID: -6930193953327757473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_82
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 242
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42530db36882aaf30800000000000000
+      internalID: 4587523727424501028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_83
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 249
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5ee22353c609500800000000000000
+      internalID: 400939342566974956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_84
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 258
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dbe1d9fb07d5900800000000000000
+      internalID: 674819487452544277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_85
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 242
+        width: 54
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9046f093fefbd2140800000000000000
+      internalID: 4696621020592694281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_86
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 249
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0f9f74d32e1cb60800000000000000
+      internalID: 7764735985391890672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_87
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 249
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807c02ab6e95f6f20800000000000000
+      internalID: 3418049489697556232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_88
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 256
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3476bb598a9dbc0800000000000000
+      internalID: -3757787053016267808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_89
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 244
+        width: 40
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5dd97c5c271dd60800000000000000
+      internalID: 7913232214049805732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_90
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 250
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030afe64306766990800000000000000
+      internalID: -7393091981835001808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_91
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 252
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe776e188028c820800000000000000
+      internalID: 2938634525856988922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_92
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 252
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bffe4aad7640470800000000000000
+      internalID: 8359920997074205543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_93
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 250
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad0687f795161e80800000000000000
+      internalID: -8208349528399147604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_94
+      rect:
+        serializedVersion: 2
+        x: 2678
+        y: 253
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737505b8d91f7bce0800000000000000
+      internalID: -1389376301071050953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_95
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 252
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08a4faa6868d53d0800000000000000
+      internalID: -3216266645920765938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_96
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 252
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e244bacd2a123f050800000000000000
+      internalID: 5833042925745554478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_97
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 247
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c58087f49ade0080800000000000000
+      internalID: -9219191053838416448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_98
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 247
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15b54cf16d3b6970800000000000000
+      internalID: 8749154192150869275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_99
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 244
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715891168aabbfad0800000000000000
+      internalID: -2667333121940552425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_100
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 241
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c822483621f7290800000000000000
+      internalID: -7890567803501900705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_101
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 249
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6ff6bf08562d350800000000000000
+      internalID: 6040001654905894591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_102
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 211
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9590220806809c260800000000000000
+      internalID: 7118229896595376473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_103
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 238
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122de4988ab8d3060800000000000000
+      internalID: 6934852557194842657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_104
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 235
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42a3730400814080800000000000000
+      internalID: -9204935408642448822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_105
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 236
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be9e62aeeb44a690800000000000000
+      internalID: -7591859583540355403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_106
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 162
+        width: 45
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc41d5b2f00dc860800000000000000
+      internalID: 7551693192602668228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_107
+      rect:
+        serializedVersion: 2
+        x: 2642
+        y: 230
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57d437734191bc10800000000000000
+      internalID: 2067593422888556379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_108
+      rect:
+        serializedVersion: 2
+        x: 2663
+        y: 231
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d37509a17620d850800000000000000
+      internalID: 6399657340102341587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_109
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 211
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018a3f593b9d34ca0800000000000000
+      internalID: -6033739710408185840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_110
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 206
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73150ee510dc619f0800000000000000
+      internalID: -497985303007440585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_111
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 211
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bb53b1d06abcd30800000000000000
+      internalID: 4452835231807159062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_112
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 206
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5df4ba061187b90800000000000000
+      internalID: -7244020893736774194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_113
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 206
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b7ed0aeb3e01a50800000000000000
+      internalID: 6489937470923111298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_114
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 121
+        width: 67
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5852a720cd0010b60800000000000000
+      internalID: 7710444981969364357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_115
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 206
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05dc0f9e405af6a10800000000000000
+      internalID: 1904922607924333904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_116
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 193
+        width: 52
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1708aa591c3774280800000000000000
+      internalID: -9059144850155601807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_117
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 202
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba55bc35abb196620800000000000000
+      internalID: 2767773933079582123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_118
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 187
+        width: 75
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8db813f6f0e3ff0800000000000000
+      internalID: -54589175234832163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_119
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 189
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5665fb3f64378b6f0800000000000000
+      internalID: -668657796090210715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_120
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 181
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4abfb6f2b08a6b0800000000000000
+      internalID: -5284961864416254741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_121
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 175
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a17e9ffc42b9180800000000000000
+      internalID: -9107645345757193685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_122
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 165
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e92936ca4251fc0800000000000000
+      internalID: -3524870810524017074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_123
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 164
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e98cb25ecdd0a4c0800000000000000
+      internalID: -4278175767780881943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_124
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 169
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b17a572f81c49c0800000000000000
+      internalID: -3941748144220988540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_125
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 151
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753daf0c8d0f67b60800000000000000
+      internalID: 7743641423051412311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_126
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 154
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913857e66bfa0a700800000000000000
+      internalID: 549632352611304217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_127
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 116
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c55c2f09b97b93e0800000000000000
+      internalID: -2045907769979284027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_128
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 110
+        width: 58
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4492bbd8b107900800000000000000
+      internalID: 680073839277327603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_129
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 134
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834ceaa23859b10e0800000000000000
+      internalID: -2298078794253155272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_130
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 115
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ea37fa86f2a71f0800000000000000
+      internalID: -1046471836743520746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_131
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 118
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b55c00f6d2d1bf0800000000000000
+      internalID: -352075241087476956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_132
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 121
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2c80408f429eef0800000000000000
+      internalID: -78490870864100701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_133
+      rect:
+        serializedVersion: 2
+        x: 2899
+        y: 85
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8229114d95b8f80800000000000000
+      internalID: -8103284337160345409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_134
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 115
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff03befb86394b450800000000000000
+      internalID: 6103665473099608319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_135
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 107
+        width: 44
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f6dbb7bc566dc50800000000000000
+      internalID: 6689646221134229281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_136
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 109
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1544ee2f0484110800000000000000
+      internalID: 1245316709091660248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_137
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 112
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fcca90afc403520800000000000000
+      internalID: 2679726415073300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_138
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 113
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6891ed55770a28a40800000000000000
+      internalID: 5369030140181223814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_139
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 107
+        width: 69
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d495c12aeaefcf30800000000000000
+      internalID: 4598152035878409424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_140
+      rect:
+        serializedVersion: 2
+        x: 2641
+        y: 115
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd664f620ae65f2f0800000000000000
+      internalID: -939723313109506341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_141
+      rect:
+        serializedVersion: 2
+        x: 2741
+        y: 107
+        width: 60
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdaf403606422c30800000000000000
+      internalID: 4333102783878114752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_142
+      rect:
+        serializedVersion: 2
+        x: 2948
+        y: 110
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5ece34866fd9050800000000000000
+      internalID: 5809070022054438332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_143
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 106
+        width: 59
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c63ccaac09f5aa80800000000000000
+      internalID: -8456078892517804343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_144
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 61
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c114ca5d0277d60800000000000000
+      internalID: 7887809374452784152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_145
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 52
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d59d16fa8e4ed490800000000000000
+      internalID: -7719646352524864042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_146
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 50
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcbecb2faa321450800000000000000
+      internalID: 6057968972795395322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_147
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 49
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a800191ecd65fbe0800000000000000
+      internalID: -1444127373551204184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_148
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 49
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e657427a5f99f7b30800000000000000
+      internalID: 4287314650630223214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peluru_149
+      rect:
+        serializedVersion: 2
+        x: 2804
+        y: 49
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023849c6d6e69da50800000000000000
+      internalID: 6546384949611889440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
